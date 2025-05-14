@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* s */
+.ant-modal-body ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
